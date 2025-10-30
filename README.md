@@ -4,11 +4,7 @@ A modern, responsive task management application built with React.js, JSX, and T
 
 ## 🌐 Live Demo
 
-🚀 **Deployed Application**: [Add your Vercel URL here]
-
-_Example: https://your-app-name.vercel.app_
-
-> **Note**: Replace the placeholder above with your actual Vercel deployment URL after deploying your application.
+🚀 **Deployed Application**: [(https://assignment-3-ruby-alpha.vercel.app/)]
 
 ## 🚀 Features
 
@@ -236,7 +232,7 @@ Mobile-first approach with Tailwind breakpoints:
 
 2. **Deploy to Vercel**
 
-   - Go to [vercel.com](https://vercel.com) and sign up/login with GitHub
+   - Go to [vercel.com](https://assignment-3-ruby-alpha.vercel.app/)) and sign up/login with GitHub
    - Click "New Project"
    - Import your GitHub repository
    - Vercel will auto-detect it's a Vite project
